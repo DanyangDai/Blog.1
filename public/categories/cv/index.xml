@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cv on A Hugo website</title>
+    <link>/categories/cv/</link>
+    <description>Recent content in Cv on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Danyang Dai</title>
+      <link>/cv/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>Education Bachelor of Commerce (Accounting and Finance)
+2015 Jul - 2018 Jul
+Monash University, Australia
+Monash University Foundation year
+2014 Jul – 2015 Jun
+Monash College, Australia
+ Professional Experience Taxation Administrator
+Jan 2018 – Feb 2018
+McLaren Hunt Financial Group
+ </description>
+    </item>
+    
+  </channel>
+</rss>

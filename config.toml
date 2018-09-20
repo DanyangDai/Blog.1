@@ -1,0 +1,42 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "A Hugo website"
+theme = "hugo-lithium"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "CV"
+    url = "/CV/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/DanyangDai"
+[[menu.main]]
+    name = "LinkedIn"
+    url = "http://www.linkedin.com/in/danyang-dai-7529b4152/"
+[[menu.main]]
+    name = "Email"
+    url = "mailto:danyang.dai@sina.com" 
+
+[params]
+    description = "A website built through Hugo and blogdown."
+
+    # options for highlight.js 
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+
